@@ -1,0 +1,13 @@
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast reciever\bin\Debug\netcoreapp3.1\UDP Broadcast reciever.exe
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast reciever\bin\Debug\netcoreapp3.1\UDP Broadcast reciever.deps.json
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast reciever\bin\Debug\netcoreapp3.1\UDP Broadcast reciever.runtimeconfig.json
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast reciever\bin\Debug\netcoreapp3.1\UDP Broadcast reciever.runtimeconfig.dev.json
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast reciever\bin\Debug\netcoreapp3.1\UDP Broadcast reciever.dll
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast reciever\bin\Debug\netcoreapp3.1\UDP Broadcast reciever.pdb
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast reciever\obj\Debug\netcoreapp3.1\UDP Broadcast reciever.csprojAssemblyReference.cache
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast reciever\obj\Debug\netcoreapp3.1\UDP Broadcast reciever.AssemblyInfoInputs.cache
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast reciever\obj\Debug\netcoreapp3.1\UDP Broadcast reciever.AssemblyInfo.cs
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast reciever\obj\Debug\netcoreapp3.1\UDP Broadcast reciever.csproj.CoreCompileInputs.cache
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast reciever\obj\Debug\netcoreapp3.1\UDP Broadcast reciever.dll
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast reciever\obj\Debug\netcoreapp3.1\UDP Broadcast reciever.pdb
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast reciever\obj\Debug\netcoreapp3.1\UDP Broadcast reciever.genruntimeconfig.cache

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Sensor Site</title>
+  <link rel="stylesheet" type="text/css" href="bundle.css">
+  <style>
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+    </style>
+</head>
+
+<body>
+  <h1>Data Table</h1>
+  <Button id = "GetAll">Get All</Button>
+  <div>
+  <input id ="InputBar"></input> 
+  <Button id = "GetById">Search by Id</Button>
+  <Button id = "DeleteById">Delete by Id</Button>
+  </div>
+  <div>
+    <input id ="prop2">temperature</input>
+    <input id ="prop3">humidity</input>
+    <input id ="prop4">pressure</input>
+    <Button id = "AddNew">Add new data</Button>
+  </div>
+  
+
+  <table id="TableContent"></table>
+
+  <script src="bundle.js"></script>
+</body>
+</html>

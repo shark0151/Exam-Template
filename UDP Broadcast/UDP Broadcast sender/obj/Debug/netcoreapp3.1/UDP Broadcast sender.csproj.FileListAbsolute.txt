@@ -1,0 +1,26 @@
+D:\School\MockExam2\UDP Broadcast sender\UDP Broadcast sender\bin\Debug\netcoreapp3.1\UDP Broadcast sender.exe
+D:\School\MockExam2\UDP Broadcast sender\UDP Broadcast sender\bin\Debug\netcoreapp3.1\UDP Broadcast sender.deps.json
+D:\School\MockExam2\UDP Broadcast sender\UDP Broadcast sender\bin\Debug\netcoreapp3.1\UDP Broadcast sender.runtimeconfig.json
+D:\School\MockExam2\UDP Broadcast sender\UDP Broadcast sender\bin\Debug\netcoreapp3.1\UDP Broadcast sender.runtimeconfig.dev.json
+D:\School\MockExam2\UDP Broadcast sender\UDP Broadcast sender\bin\Debug\netcoreapp3.1\UDP Broadcast sender.dll
+D:\School\MockExam2\UDP Broadcast sender\UDP Broadcast sender\bin\Debug\netcoreapp3.1\UDP Broadcast sender.pdb
+D:\School\MockExam2\UDP Broadcast sender\UDP Broadcast sender\obj\Debug\netcoreapp3.1\UDP Broadcast sender.csprojAssemblyReference.cache
+D:\School\MockExam2\UDP Broadcast sender\UDP Broadcast sender\obj\Debug\netcoreapp3.1\UDP Broadcast sender.AssemblyInfoInputs.cache
+D:\School\MockExam2\UDP Broadcast sender\UDP Broadcast sender\obj\Debug\netcoreapp3.1\UDP Broadcast sender.AssemblyInfo.cs
+D:\School\MockExam2\UDP Broadcast sender\UDP Broadcast sender\obj\Debug\netcoreapp3.1\UDP Broadcast sender.csproj.CoreCompileInputs.cache
+D:\School\MockExam2\UDP Broadcast sender\UDP Broadcast sender\obj\Debug\netcoreapp3.1\UDP Broadcast sender.dll
+D:\School\MockExam2\UDP Broadcast sender\UDP Broadcast sender\obj\Debug\netcoreapp3.1\UDP Broadcast sender.pdb
+D:\School\MockExam2\UDP Broadcast sender\UDP Broadcast sender\obj\Debug\netcoreapp3.1\UDP Broadcast sender.genruntimeconfig.cache
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast sender\bin\Debug\netcoreapp3.1\UDP Broadcast sender.exe
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast sender\bin\Debug\netcoreapp3.1\UDP Broadcast sender.deps.json
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast sender\bin\Debug\netcoreapp3.1\UDP Broadcast sender.runtimeconfig.json
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast sender\bin\Debug\netcoreapp3.1\UDP Broadcast sender.runtimeconfig.dev.json
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast sender\bin\Debug\netcoreapp3.1\UDP Broadcast sender.dll
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast sender\bin\Debug\netcoreapp3.1\UDP Broadcast sender.pdb
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast sender\obj\Debug\netcoreapp3.1\UDP Broadcast sender.csprojAssemblyReference.cache
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast sender\obj\Debug\netcoreapp3.1\UDP Broadcast sender.AssemblyInfoInputs.cache
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast sender\obj\Debug\netcoreapp3.1\UDP Broadcast sender.AssemblyInfo.cs
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast sender\obj\Debug\netcoreapp3.1\UDP Broadcast sender.csproj.CoreCompileInputs.cache
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast sender\obj\Debug\netcoreapp3.1\UDP Broadcast sender.dll
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast sender\obj\Debug\netcoreapp3.1\UDP Broadcast sender.pdb
+D:\School\MockExam2\UDP Broadcast\UDP Broadcast sender\obj\Debug\netcoreapp3.1\UDP Broadcast sender.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+from sense_hat import SenseHat
+import time
+
+s = SenseHat()
+
+green = (0, 255, 0)
+yellow = (255, 255, 0)
+blue = (0, 0, 255)
+red = (255, 0, 0)
+white = (255,255,255)
+nothing = (0,0,0)
+pink = (255,105, 180)
+
+def temperature():
+    temp = s.get_temperature()
+    if temp > 22:
+        s.clear(red)
+    elif temp < 22 and temp > 18:
+        s.clear(green)
+    elif temp < 18:
+        s.clear(blue)
+    
+
+while True: 
+    temperature()
+    time.sleep(.5)
